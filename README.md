@@ -12,6 +12,7 @@ Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stei
        <tr>
     	<td align="center">I</td>
 		<td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.1.md"><font color="black">1</font></td>
+        <td align="center"><a href="./C01-The-Role-of-Algorithms-in-Computing/1.2.md"><font color="black">2</font></td>
     </tr>
 </table>
 
